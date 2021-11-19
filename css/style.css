@@ -48,7 +48,7 @@ h6 {
 }
 
 .nav__list .nav_item-logo {
-    background: url(/img/logo.svg) no-repeat center center;
+    background: url(../img/logo.svg) no-repeat center center;
     width: 100px;
     height: 32px;
     transform: scale(1.5);
