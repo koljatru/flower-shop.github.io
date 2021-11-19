@@ -156,9 +156,21 @@ h6 {
     position: absolute;
     top: 0;
     left: 0;
-    z-index: 1;
+    z-index: 5;
     width: 82px;
     height: 52px;
+}
+
+.features-icon-1 {
+    background: url(/img/icon-features-1.svg) no-repeat center center;
+}
+
+.features-icon-2 {
+    background: url(/img/icon-features-2.svg) no-repeat;
+}
+
+.features-icon-3 {
+    background: url(/img/icon-features-3.svg) no-repeat;
 }
 
 .features-title {
