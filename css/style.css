@@ -123,11 +123,11 @@ h6 {
 }
 
 .banner__foto-left {
-    background: url(/img/foto-banner-1.png) no-repeat center center;
+    background: url(../img/foto-banner-1.png) no-repeat center center;
 }
 
 .banner__foto-right {
-    background: url(/img/foto-banner-2.png) no-repeat center center;
+    background: url(../img/foto-banner-2.png) no-repeat center center;
     margin-bottom: 50px;
 }
 
@@ -260,15 +260,15 @@ h6 {
 }
 
 .catalog__item-1 {
-    background: url(/img/flover-catalog-1.png) no-repeat center center;
+    background: url(../img/flover-catalog-1.png) no-repeat center center;
 }
 
 .catalog__item-2 {
-    background: url(/img/flover-catalog-2.png) no-repeat center center;
+    background: url(../img/flover-catalog-2.png) no-repeat center center;
 }
 
 .catalog__item-3 {
-    background: url(/img/flover-catalog-3.png) no-repeat center center;
+    background: url(../img/flover-catalog-3.png) no-repeat center center;
 }
 
 .catalog__title {
@@ -320,7 +320,7 @@ h6 {
 }
 
 .sale__foto {
-    background: url(/img/flover-sale.png) no-repeat center center;
+    background: url(../img/flover-sale.png) no-repeat center center;
     width: 50%;
     background-size: cover;
 }
@@ -396,15 +396,15 @@ h6 {
 }
 
 .icon__insta {
-    background: url(/img/icon-insta.svg) no-repeat center center;
+    background: url(../img/icon-insta.svg) no-repeat center center;
 }
 
 .icon__facebook {
-    background: url(/img/ficon-facebook.svg) no-repeat center center;
+    background: url(../img/ficon-facebook.svg) no-repeat center center;
 }
 
 .icon__twitter {
-    background: url(/img/icon-twitter.svg) no-repeat center center;
+    background: url(../img/icon-twitter.svg) no-repeat center center;
 }
 
 .news__mini-foto {
@@ -466,7 +466,7 @@ h6 {
 .map {
     width: 100%;
     height: 644px;
-    background: url(/img/maps.png) no-repeat center center;
+    background: url(../img/maps.png) no-repeat center center;
     background-size: cover;
 }
 
@@ -526,7 +526,7 @@ h6 {
 }
 
 .footer__list .footer_item-logo {
-    background: url(/img/footer_logo.svg) no-repeat center center;
+    background: url(../img/footer_logo.svg) no-repeat center center;
     width: 100px;
     height: 32px;
 }
@@ -548,15 +548,15 @@ footer .icon {
 }
 
 .footer__insta {
-    background: url(/img/footer-insta.svg) no-repeat center center;
+    background: url(../img/footer-insta.svg) no-repeat center center;
 }
 
 .footer__facebook {
-    background: url(/img/footer-facebook.svg) no-repeat center center;
+    background: url(../img/footer-facebook.svg) no-repeat center center;
 }
 
 .footer__twitter {
-    background: url(/img/footer-twitter.svg) no-repeat center center;
+    background: url(../img/footer-twitter.svg) no-repeat center center;
 }
 
 /******************** FOOTER */
